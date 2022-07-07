@@ -25,7 +25,7 @@ In this report we will cover the purpose of our credit analysis, the artifical l
      
 * Machine Learning Model 2:
   * Below we will add an image the covers the accuracy scores for the secondary model used. This model took the dataset and resampled the risky loans ("1") so that they were of equal count 
-    to those of the healthy ("0") loans. We can see that the resampled data fares a little better than the original dataset when it comes to detecting the risky ("0") loans. This difference  
+    to those of the healthy ("0") loans. We can see that the resampled data fares a little better than the original dataset when it comes to detecting the risky ("1") loans. This difference  
     in value may seem small but may in itself warrant use of the resampled model. 
      ![<alt text>](https://i.postimg.cc/6QkMf8Wx/Screen-Shot-2022-07-07-at-12-03-29-PM.png)
    
