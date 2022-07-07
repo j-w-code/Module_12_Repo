@@ -36,7 +36,7 @@ In this report we took our lending dataset, split the data into training and tes
 * Of the two models it appears that the resampled dataset model renders slightly better results when attempting to find and classify the risky loans. 
 * Performance of the models does depend on what we are trying to solve for. In this case detecting the amount of fewer risky loans when compared to the overall dataset. 
 
-    To that end the resampled model appears to track the risky ("1") data ever so slightly better than the original dataset and we will reccomend using this model. 
+    To that end the resampled model appears to track the risky ("1") data ever so slightly better than the original dataset and we will recommend using this model. 
     
     
     
